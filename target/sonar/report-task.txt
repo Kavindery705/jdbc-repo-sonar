@@ -1,0 +1,7 @@
+organization=shiva-developer
+projectKey=jdbcprojects:com.jdbcproj
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58807
+dashboardUrl=https://sonarcloud.io/dashboard?id=jdbcprojects%3Acom.jdbcproj
+ceTaskId=AZSPFy5g3NU7KFhDQfxi
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZSPFy5g3NU7KFhDQfxi

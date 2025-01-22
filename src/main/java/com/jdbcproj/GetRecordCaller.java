@@ -11,12 +11,12 @@ public class GetRecordCaller {
 		int choice = 0;
 		do {
 			System.out.println("1. Exit!");
-			System.out.println("2. get Selected record");
-			System.out.println("3. get All record");
-			System.out.println("4. get record by pages");
-			System.out.println("5. insert record ");
-			System.out.println("6. delete record by id");
-			System.out.println("7. update record ");
+//			System.out.println("2. get Selected record");
+//			System.out.println("3. get All record");
+//			System.out.println("4. get record by pages");
+//			System.out.println("5. insert record ");
+//			System.out.println("6. delete record by id");
+//			System.out.println("7. update record ");
 
 			System.out.print("Enter your choice : ");
 			choice = sc.nextInt();
